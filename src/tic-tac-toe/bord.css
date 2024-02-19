@@ -1,0 +1,21 @@
+.bord-row{
+    display: flex;
+    justify-content: space-evenly;
+    align-items:  center;
+  }
+  .div-container{
+    margin: 60px;
+  }
+
+  #head{
+    color: rgba(151, 11, 121, 0.958);
+    text-align: center;
+  }
+  #btn{
+    background-color: aqua;
+    color: brown;
+    border: 13px;
+    margin: 5px;
+    height:30px;
+    width: 100%;
+  }
